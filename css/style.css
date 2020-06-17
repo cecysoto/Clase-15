@@ -771,12 +771,12 @@ section .container {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(0, 0, 0, 0.6);
+  background: #6DD9A8;
 }
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(0, 0, 0, 0.6);
+  background: #6DD9A8;
   position: absolute;
   left: 30px;
   right: 30px;
