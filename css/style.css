@@ -376,7 +376,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: rgba(46, 207, 191,0.8);
+  color: #000000;
 }
 
 .about-me .content ul {
